@@ -1,0 +1,105 @@
+{
+  "total_reps": 10,
+  "average_score": 61.9,
+  "overall_quality": "Needs Work",
+  "reps": [
+    {
+      "rep_number": 1,
+      "score": 60,
+      "quality": "Needs Work",
+      "deductions": [
+        "-30.0 (excessive forward lean)",
+        "Back stability: -10.0 (inconsistent back angle)"
+      ],
+      "feedback": "Areas for improvement: -30.0 (excessive forward lean), Back stability: -10.0 (inconsistent back angle)"
+    },
+    {
+      "rep_number": 2,
+      "score": 90,
+      "quality": "Good",
+      "deductions": [
+        "Back stability: -10.0 (inconsistent back angle)"
+      ],
+      "feedback": "Areas for improvement: Back stability: -10.0 (inconsistent back angle)"
+    },
+    {
+      "rep_number": 3,
+      "score": 46.9,
+      "quality": "Needs Work",
+      "deductions": [
+        "Depth: -40.0 (didn't reach parallel)",
+        "-13.1 (excessive forward lean)"
+      ],
+      "feedback": "Areas for improvement: Depth: -40.0 (didn't reach parallel), -13.1 (excessive forward lean)"
+    },
+    {
+      "rep_number": 4,
+      "score": 52.1,
+      "quality": "Needs Work",
+      "deductions": [
+        "-24.9 (excessive forward lean)",
+        "-12.9 (torso too horizontal (angle: 56.5\u00b0))",
+        "Back stability: -10.0 (inconsistent back angle)"
+      ],
+      "feedback": "Areas for improvement: -24.9 (excessive forward lean), -12.9 (torso too horizontal (angle: 56.5\u00b0)), Back stability: -10.0 (inconsistent back angle)"
+    },
+    {
+      "rep_number": 5,
+      "score": 48.8,
+      "quality": "Needs Work",
+      "deductions": [
+        "Depth: -21.5 (didn't reach parallel)",
+        "-19.7 (torso too horizontal (angle: 59.9\u00b0))",
+        "Back stability: -10.0 (inconsistent back angle)"
+      ],
+      "feedback": "Areas for improvement: Depth: -21.5 (didn't reach parallel), -19.7 (torso too horizontal (angle: 59.9\u00b0)), Back stability: -10.0 (inconsistent back angle)"
+    },
+    {
+      "rep_number": 6,
+      "score": 40,
+      "quality": "Needs Work",
+      "deductions": [
+        "-30.0 (excessive forward lean)",
+        "-30.0 (torso too horizontal (angle: 71.3\u00b0))"
+      ],
+      "feedback": "Areas for improvement: -30.0 (excessive forward lean), -30.0 (torso too horizontal (angle: 71.3\u00b0))"
+    },
+    {
+      "rep_number": 7,
+      "score": 71.4,
+      "quality": "Needs Work",
+      "deductions": [
+        "-25.0 (excessive forward lean)",
+        "-3.6 (torso too horizontal (angle: 51.8\u00b0))"
+      ],
+      "feedback": "Areas for improvement: -25.0 (excessive forward lean), -3.6 (torso too horizontal (angle: 51.8\u00b0))"
+    },
+    {
+      "rep_number": 8,
+      "score": 20,
+      "quality": "Needs Work",
+      "deductions": [
+        "Depth: -40.0 (didn't reach parallel)",
+        "-30.0 (torso too horizontal (angle: 73.1\u00b0))",
+        "Back stability: -10.0 (inconsistent back angle)"
+      ],
+      "feedback": "Areas for improvement: Depth: -40.0 (didn't reach parallel), -30.0 (torso too horizontal (angle: 73.1\u00b0)), Back stability: -10.0 (inconsistent back angle)"
+    },
+    {
+      "rep_number": 9,
+      "score": 100,
+      "quality": "Excellent",
+      "deductions": [],
+      "feedback": "Good form!"
+    },
+    {
+      "rep_number": 10,
+      "score": 90,
+      "quality": "Good",
+      "deductions": [
+        "Back stability: -10.0 (inconsistent back angle)"
+      ],
+      "feedback": "Areas for improvement: Back stability: -10.0 (inconsistent back angle)"
+    }
+  ]
+}
